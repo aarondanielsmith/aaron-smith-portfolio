@@ -51,7 +51,7 @@ a:hover {
 /***** HEADER *****/
 
 header {
-    background: linear-gradient(to bottom, #fffaf5, #e9e4df)
+    background: linear-gradient(to bottom, #fffaf5, #e9e4df);
     height: 800px;
 }
 
