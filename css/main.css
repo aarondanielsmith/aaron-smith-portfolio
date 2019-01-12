@@ -109,18 +109,18 @@ nav ul li a {
     padding-top: 170px;
 }
 
-#about img {
-    border: 2px solid #fffaf5;
-    display: block;
-    margin: 50px auto;
-    width: 300px;
-}
-
 #about p {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     width: 700px;
+}
+
+#about img {
+    border: 2px solid #fffaf5;
+    display: block;
+    margin: 50px auto;
+    width: 300px;
 }
 
 /***** PORTFOLIO *****/
@@ -135,17 +135,6 @@ nav ul li a {
     padding-bottom: 115px;
     padding-top: 170px;
 }
-#portfolio a img {
-    border: 2px solid #60718b;
-    display: block;
-    margin: 35px auto;
-    transition: transform 0.4s;
-    width: 350px;
-}
-
-#portfolio a:hover img {
-    transform: translateY(-10px);
-}
 
 #portfolio h3 {
     font-family: 'Lato', sans-serif;
@@ -157,6 +146,18 @@ nav ul li a {
 #portfolio p {
     margin-top: 0;
     text-align: center;
+}
+
+#portfolio img {
+    border: 2px solid #60718b;
+    display: block;
+    margin: 35px auto;
+    transition: transform 0.4s;
+    width: 350px;
+}
+
+#portfolio img:hover {
+    transform: translateY(-10px);
 }
 
 /***** CONTACT *****/
