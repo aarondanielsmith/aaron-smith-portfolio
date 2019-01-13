@@ -187,10 +187,14 @@ nav ul li a {
     text-align: center;
 }
 
+#contact a:hover {
+    letter-spacing: 0.5px;
+}
+
 #contact img {
     width: 50px;
     margin: 0 25px;
-    transition: all 0.2s;
+    transition: all 0.3s;
 }
 
 #contact img:hover {
