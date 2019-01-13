@@ -102,7 +102,7 @@ nav ul li a {
 #about {
     background: linear-gradient(to bottom, #3a4454, #4b586d);
     color: #fffaf5;
-    height: 1050px;
+    height: 910px;
 }
 
 #about h2 {
@@ -128,7 +128,7 @@ nav ul li a {
 
 #portfolio {
     background: linear-gradient(to bottom, #fffaf5, #e9e4df);
-    height: 850px;
+    height: 710px;
 }
 
 #portfolio h2 {
@@ -166,7 +166,7 @@ nav ul li a {
 #contact {
     background: linear-gradient(to bottom, #3a4454, #4b586d);
     color: #fffaf5;
-    height: 600px;
+    height: 540px;
 }
 
 #contact h2 {
@@ -203,7 +203,7 @@ nav ul li a {
 }
 
 #contact #copyright {
-    padding-top: 130px;
+    padding-top: 60px;
 }
 
 #contact #copyright p {
